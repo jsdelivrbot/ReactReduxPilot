@@ -19,7 +19,7 @@
     "chai": "^3.5.0",
     "chai-jquery": "^2.0.0",
     "jquery": "^2.2.1",
-    "jsdom": "12.1.0",
+    "jsdom": "^12.1.0",
     "mocha": "^2.4.5",
     "webpack": "^1.12.9",
     "webpack-dev-server": "^1.14.0"
@@ -27,7 +27,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "babel-preset-stage-1": "^6.1.18",
-    "lodash": "4.17.11",
+    "lodash": "^4.17.11",
     "react": "16.3.2",
     "react-dom": "16.3.2",
     "react-redux": "5.0.7",
